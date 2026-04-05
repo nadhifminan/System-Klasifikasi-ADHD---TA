@@ -1,6 +1,6 @@
 
 SISTEM KLASIFIKASI ADHD BERBASIS 3D RESNET-50
-
+-----------------
 
 DESKRIPSI PROYEK:
 -----------------
@@ -63,6 +63,6 @@ DISKLAIMER:
 Sistem ini adalah instrumen penelitian akademik dan bukan merupakan alat 
 diagnosis medis berlisensi.
 ---------------------------------------------------------------------------
-=======
+
 # System-Klasifikasi-ADHD---TA
 3D MRI Brain Classification for ADHD Detection using MedicalNet (3D ResNet-50) &amp; Ensemble Majority Voting. Features multi-tissue segmentation (WM, GM, CSF) and an interactive Streamlit dashboard. Built with PyTorch.
