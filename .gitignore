@@ -1,0 +1,8 @@
+# untuk file model .pth saya upload di drive : https://drive.google.com/drive/folders/1RlZmfUT3kTuoa9C7S9mXPahKkj-GFTVF?usp=sharing
+*.pth
+
+venv/
+__pycache__/
+*.pyc
+.env
+models/medicalnet/
