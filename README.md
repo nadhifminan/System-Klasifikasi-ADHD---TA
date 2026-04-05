@@ -1,6 +1,6 @@
-===========================================================================
-                SISTEM KLASIFIKASI ADHD BERBASIS 3D RESNET-50
-===========================================================================
+
+SISTEM KLASIFIKASI ADHD BERBASIS 3D RESNET-50
+
 
 DESKRIPSI PROYEK:
 -----------------
